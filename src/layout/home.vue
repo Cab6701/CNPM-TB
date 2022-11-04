@@ -344,151 +344,86 @@
         </div>
         <div class="content-new-product">
           <div class="container-fluid">
-            <div
-              id="carouselExampleControls"
-              class="carousel slide"
-              data-bs-ride="carousel"
-            >
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li
+                  data-target="#myCarousel"
+                  data-slide-to="0"
+                  class="active"
+                ></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+              </ol>
+
               <div class="carousel-inner">
-                <div class="carousel-item active flex wrap">
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
+                <div class="item active">
+                  <a href="google.com">
+                    <img
+                      src="../assets/images/product-img/POTTK316-QJDTK302-1-1-400x600.jpg"
+                      alt="Los Angeles"
+                    />
+                  </a>
+                  <a href="google.com">
+                    <img
+                      src="../assets/images/product-img/POTTK316-QJDTK302-1-1-400x600.jpg"
+                      alt="Los Angeles"
+                    />
+                  </a>
+                  <a href="google.com">
+                    <img
+                      src="../assets/images/product-img/POTTK316-QJDTK302-1-1-400x600.jpg"
+                      alt="Los Angeles"
+                    />
+                  </a>
                 </div>
-                <div class="carousel-item flex wrap">
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
+
+                <div class="item">
+                  <img
+                    src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
+                    alt="Chicago"
+                  />
+                  <img
+                    src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
+                    alt="Chicago"
+                  />
+                  <img
+                    src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
+                    alt="Chicago"
+                  />
                 </div>
-                <div class="carousel-item flex wrap">
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
-                  <div class="col-md-3 pro-loop">
-                    <div class="product-img">
-                      <picture>
-                        <img
-                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
-                        />
-                      </picture>
-                    </div>
-                  </div>
+
+                <div class="item">
+                  <img
+                    src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
+                    alt="New York"
+                  />
+                  <img
+                    src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
+                    alt="New York"
+                  />
+                  <img
+                    src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
+                    alt="New York"
+                  />
                 </div>
               </div>
-              <button
-                class="carousel-control-prev"
-                type="button"
-                data-bs-target="#carouselExampleControls"
-                data-bs-slide="prev"
+
+              <a
+                class="left carousel-control"
+                href="#myCarousel"
+                data-slide="prev"
               >
-                <span
-                  class="carousel-control-prev-icon"
-                  aria-hidden="true"
-                ></span>
-                <span class="visually-hidden">Previous</span>
-              </button>
-              <button
-                class="carousel-control-next"
-                type="button"
-                data-bs-target="#carouselExampleControls"
-                data-bs-slide="next"
+                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a
+                class="right carousel-control"
+                href="#myCarousel"
+                data-slide="next"
               >
-                <span
-                  class="carousel-control-next-icon"
-                  aria-hidden="true"
-                ></span>
-                <span class="visually-hidden">Next</span>
-              </button>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="sr-only">Next</span>
+              </a>
             </div>
           </div>
         </div>
@@ -654,6 +589,7 @@ export default {
 }
 .main-nav li {
   height: 46px;
+  font-size: 15px;
   margin-right: 25px;
   padding-top: 10px;
   padding-bottom: 15px;
@@ -843,6 +779,7 @@ p.pro-price.highlight {
   color: #f94c43;
   font-weight: bold;
   text-decoration: none;
+  font-size: 14px;
 }
 .flex {
   display: flex !important;

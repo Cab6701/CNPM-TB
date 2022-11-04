@@ -108,7 +108,7 @@
                 <div class="u-column2 col-2">
                     <h2><span>Đăng ký</span></h2>
                     <form class="woocommerce-form woocommerce-form-register register">
-                        <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                        <p class="woocommerce-form-row woocommerce-form-row--wide  form-row form-row-wide">
                             <label for="reg_email">Địa chỉ Email&nbsp;<span class="required">*</span></label>
                             <input type="email" class="woocommerce-Input woocommerce-Input--text input-text" name="email" id="reg_email" autocomplete="email" value>
                         </p>
@@ -116,7 +116,7 @@
                         <div>
                             <p>Thông tin cá nhân của bạn sẽ được sử dụng để tăng trải nghiệm sử dụng website, quản lý truy cập vào tài khoản của bạn, và cho các mục đích cụ thể khác được mô tả trong chính sách riêng tư.</p>
                         </div>
-                        <button type="" class="woocommerce-button button woocommerce-form-login__submit">
+                        <button type="" class="woocommerce-button button size-14 woocommerce-form-login__submit">
                                 Đăng ký
                             </button>
                     </form>
@@ -242,6 +242,7 @@ a {
 .woocommerce .woocommerce-form-login .woocommerce-form-login__submit {
     float: left;
     margin-right: 1em;
+    font-size: 14px;
 }
 .woocommerce form .form-row {
     padding: 3px;
@@ -321,6 +322,7 @@ label {
     display: inline-block;
     max-width: 100%;
     margin-bottom: 5px;
+    font-size: 14px;
     font-weight: 700;
 }
 .woocommerce form .form-row-wide, .woocommerce-page form .form-row-wide {
@@ -329,6 +331,10 @@ label {
 p {
     margin: 0 0 10px 0;
     line-height: 21px;
+    font-size: 14px;
+}
+.size-14{
+font-size: 14px!important;
 }
 .woocommerce .col2-set, .woocommerce-page .col2-set {
     width: 100%;
@@ -532,6 +538,13 @@ ul, ol {
     margin-right:  25px;
     padding-top: 10px;
     padding-bottom: 15px;
+    font-size: 15px;
+}
+.breadcrumb-shop .breadcrumb-arrows li {
+    font-size: 13px;
+}
+h2 {
+    font-size: 28px;
 }
 .main-nav li:hover{
     color: #f94c43;
@@ -670,6 +683,13 @@ li:nth-child(2):hover .sub-menu{
 }
 .hotline-footer .fa{
     margin-right: 5px;
+}
+a {
+    color: #252a2b;
+    text-decoration: none;
+    outline: none;
+    transition: all 0.2s ease-in-out;
+    font-size: 14px;
 }
 
 /* css phần main footer */
