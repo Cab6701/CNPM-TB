@@ -497,7 +497,9 @@ ul, ol {
     -webkit-appearance: none;
     transition: all 150ms linear;
 }
-
+.content-page{
+    padding-top: 15px;
+}
 .search-input input:focus-visible{
     outline: none !important;
 }
