@@ -1,17 +1,19 @@
 <template>
-  <home-layout/>
+  <!-- <home-layout/> -->
 <!-- <main-layout/> -->
+<product-detail/>
 </template>
 
 <script>
 // import LayoutMain from '@/layout/main.vue'
-import HomeLayout from '@/layout/home.vue'
-
+// import HomeLayout from '@/layout/home.vue'
+import ProductDetail from '@/layout/product-detail.vue'
 export default {
   name: 'App',
   components: {
     // 'main-layout': LayoutMain,
-    'home-layout': HomeLayout
+    // 'home-layout': HomeLayout,
+    'productDetail':ProductDetail,
   }
 }
 </script>

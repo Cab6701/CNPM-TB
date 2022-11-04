@@ -127,16 +127,25 @@
                       </picture>
                       <div class="div-variant">
                         <span class="color-new beeted_color" data-img="">
-                            <img src="../assets/images/product-color/STDTK341-QJDTK310-19.jpg" alt="">
-                            <span>Xanh rêu</span>
+                          <img
+                            src="../assets/images/product-color/STDTK341-QJDTK310-19.jpg"
+                            alt=""
+                          />
+                          <span>Xanh rêu</span>
                         </span>
                         <span class="color-new beeted_color" data-img="">
-                            <img src="../assets/images/product-color/STDTK341-QJDTK310-3.jpg" alt="">
-                            <span>Nâu</span>
+                          <img
+                            src="../assets/images/product-color/STDTK341-QJDTK310-3.jpg"
+                            alt=""
+                          />
+                          <span>Nâu</span>
                         </span>
                         <span class="color-new beeted_color" data-img="">
-                            <img src="../assets/images/product-color/STDTK341-QJDTK310-9.jpg" alt="">
-                            <span>Be</span>
+                          <img
+                            src="../assets/images/product-color/STDTK341-QJDTK310-9.jpg"
+                            alt=""
+                          />
+                          <span>Be</span>
                         </span>
                       </div>
                     </div>
@@ -329,106 +338,159 @@
       </div>
       <div class="new-product">
         <div class="title-new-product">
-            <div class="container-fluid">
+          <div class="container-fluid">
             <h2>Hàng mới về</h2>
           </div>
         </div>
         <div class="content-new-product">
-            <div class="container-fluid">
-                <div class="row">
-		<div class="col-md-12">
-			<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="0">
-			<!-- Carousel indicators -->
-			<!-- Wrapper for carousel items -->
-			<div class="carousel-inner">
-				<div class="item active">
-					<div class="row">
-						<div class="col-sm-3">
-							<div class="thumb-wrapper">
-								<div class="img-box">
-									<img src="/examples/images/products/speaker.jpg" class="img-responsive" alt="">
-								</div>
-								<div class="thumb-content">
-									<h4>Bose Speaker</h4>
-									<p class="item-price"> <span>$99.00</span></p>
-
-								</div>						
-							</div>
-						</div>
-						<div class="col-sm-3">
-							<div class="thumb-wrapper">
-								<div class="img-box">
-									<img src="/examples/images/products/galaxy.jpg" class="img-responsive" alt="">
-								</div>
-								<div class="thumb-content">
-									<h4>Samsung Galaxy S8</h4>
-									<p class="item-price"><span>$569.00</span></p>
-								</div>						
-							</div>
-						</div>						
-					</div>
-				</div>
-				<div class="item">
-					<div class="row">
-						<div class="col-sm-3">
-							<div class="thumb-wrapper">
-								<div class="img-box">
-									<img src="/examples/images/products/iphone.jpg" class="img-responsive" alt="">
-								</div>
-								<div class="thumb-content">
-									<h4>Apple iPhone</h4>
-									<p class="item-price"> <span>$349.00</span></p>
-
-								</div>						
-							</div>
-						</div>
-						<div class="col-sm-3">
-							<div class="thumb-wrapper">
-								<div class="img-box">
-									<img src="/examples/images/products/canon.jpg" class="img-responsive" alt="">
-								</div>
-								<div class="thumb-content">
-									<h4>Canon DSLR</h4>
-									<p class="item-price"><span>$250.00</span></p>
-								</div>						
-							</div>
-						</div>
-						<div class="col-sm-3">
-							<div class="thumb-wrapper">
-								<div class="img-box">
-									<img src="/examples/images/products/pixel.jpg" class="img-responsive" alt="">
-								</div>
-								<div class="thumb-content">
-									<h4>Google Pixel</h4>
-									<p class="item-price"> <span>$418.00</span></p>
-								</div>						
-							</div>
-						</div>	
-						<div class="col-sm-3">
-							<div class="thumb-wrapper">
-								<div class="img-box">
-									<img src="/examples/images/products/watch.jpg" class="img-responsive" alt="">
-								</div>
-								<div class="thumb-content">
-									<h4>Apple Watch</h4>
-									<p class="item-price"><span>$330.00</span></p>
-								</div>						
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- Carousel controls -->
-			<a class="carousel-control left" href="#myCarousel" data-slide="prev">
-				<i class="fa fa-angle-left"></i>
-			</a>
-			<a class="carousel-control right" href="#myCarousel" data-slide="next">
-				<i class="fa fa-angle-right"></i>
-			</a>
-		</div>
-		</div>
-	</div>
+          <div class="container-fluid">
+            <div
+              id="carouselExampleControls"
+              class="carousel slide"
+              data-bs-ride="carousel"
+            >
+              <div class="carousel-inner">
+                <div class="carousel-item active flex wrap">
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ADLTK301-QJDTK310-2-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item flex wrap">
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/ATDTK301-QJDTK309-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item flex wrap">
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="col-md-3 pro-loop">
+                    <div class="product-img">
+                      <picture>
+                        <img
+                          src="../assets/images/product-img/STDTK341-QJDTK310-3-400x600.jpg"
+                        />
+                      </picture>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <button
+                class="carousel-control-prev"
+                type="button"
+                data-bs-target="#carouselExampleControls"
+                data-bs-slide="prev"
+              >
+                <span
+                  class="carousel-control-prev-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button
+                class="carousel-control-next"
+                type="button"
+                data-bs-target="#carouselExampleControls"
+                data-bs-slide="next"
+              >
+                <span
+                  class="carousel-control-next-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="visually-hidden">Next</span>
+              </button>
             </div>
+          </div>
         </div>
       </div>
     </div>
@@ -457,13 +519,24 @@
   </div>
 </template>
     
-    <script>
+<script>
 export default {
   name: "MainLayout",
+  components: [],
+  data() {},
 };
 </script>
     
-    <style scoped>
+<style scoped>
+.carousel-wrapper {
+  padding: 40px;
+}
+.img-wrapper img {
+  margin: auto;
+  width: 200px;
+  height: 100px;
+  background-image: linear-gradient(gray 100%, transparent 0);
+}
 .row {
   align-items: center;
 }
@@ -772,7 +845,7 @@ p.pro-price.highlight {
   text-decoration: none;
 }
 .flex {
-  display: flex;
+  display: flex !important;
 }
 .wrap {
   flex-flow: wrap;
@@ -789,11 +862,13 @@ a {
   text-decoration: none;
   outline: none;
 }
-a:hover, a:focus {
-    color: #6c6c70;
-    text-decoration: none;
-    outline: none;
+a:hover,
+a:focus {
+  color: #6c6c70;
+  text-decoration: none;
+  outline: none;
 }
+
 .pro-loop .product-img picture {
   -webkit-transition: all 0.5s ease 0s;
   transition: all 0.5s ease 0s;
@@ -802,151 +877,153 @@ a:hover, a:focus {
   justify-content: center;
   height: 100%;
 }
-img{
-    max-width: 100%;
-    height: auto;
-    vertical-align: middle;
-    border: 0;
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
 }
 .div-variant {
-    flex-wrap: wrap;
-    display: flex;
-    display: -moz-flex;
-    display: -o-flex;
-    width: 100%;
-    position: absolute;
-    bottom: -100%;
-    z-index: 999;
-    background: white;
-    padding: 10px 0 0;
-    transition: all 0.6s ease-in-out 0s;
-    -moz-transition: all 0.6s ease-in-out 0s;
-    -o-transition: all 0.6s ease-in-out 0s;
-    -webkit-transition: all 0.6s ease-in-out 0s;
-    -ms-transition: all 0.6s ease-in-out 0s;
-    align-items: center;
-    justify-content: center;
+  flex-wrap: wrap;
+  display: flex;
+  display: -moz-flex;
+  display: -o-flex;
+  width: 100%;
+  position: absolute;
+  bottom: -100%;
+  z-index: 999;
+  background: white;
+  padding: 10px 0 0;
+  transition: all 0.6s ease-in-out 0s;
+  -moz-transition: all 0.6s ease-in-out 0s;
+  -o-transition: all 0.6s ease-in-out 0s;
+  -webkit-transition: all 0.6s ease-in-out 0s;
+  -ms-transition: all 0.6s ease-in-out 0s;
+  align-items: center;
+  justify-content: center;
 }
 .div-variant > span {
-    cursor: pointer;
-    display: inline-block;
-    width: 20%;
+  cursor: pointer;
+  display: inline-block;
+  width: 20%;
 }
-.product-img:hover .div-variant{
-    display: inline;
+.product-img:hover .div-variant {
+  display: inline;
 }
 
 /**Hàng mới về */
 
 .carousel {
-	margin: 50px auto;
-	padding: 0 70px;
+  margin: 50px auto;
+  padding: 0 70px;
 }
 .carousel .item {
-	min-height: 330px;
-    text-align: center;
-	overflow: hidden;
+  min-height: 330px;
+  text-align: center;
+  overflow: hidden;
 }
 .carousel .item .img-box {
-	height: 160px;
-	width: 100%;
-	position: relative;
+  height: 160px;
+  width: 100%;
+  position: relative;
 }
-.carousel .item img {	
-	max-width: 100%;
-	max-height: 100%;
-	display: inline-block;
-	position: absolute;
-	bottom: 0;
-	margin: 0 auto;
-	left: 0;
-	right: 0;
+.carousel .item img {
+  max-width: 100%;
+  max-height: 100%;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
 }
 .carousel .item h4 {
-	font-size: 18px;
-	margin: 10px 0;
+  font-size: 18px;
+  margin: 10px 0;
 }
 .carousel .item .btn {
-	color: #333;
-    border-radius: 0;
-    font-size: 11px;
-    text-transform: uppercase;
-    font-weight: bold;
-    background: none;
-    border: 1px solid #ccc;
-    padding: 5px 10px;
-    margin-top: 5px;
-    line-height: 16px;
+  color: #333;
+  border-radius: 0;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: none;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  margin-top: 5px;
+  line-height: 16px;
 }
-.carousel .item .btn:hover, .carousel .item .btn:focus {
-	color: #fff;
-	background: #000;
-	border-color: #000;
-	box-shadow: none;
+.carousel .item .btn:hover,
+.carousel .item .btn:focus {
+  color: #fff;
+  background: #000;
+  border-color: #000;
+  box-shadow: none;
 }
 .carousel .item .btn i {
-	font-size: 14px;
-    font-weight: bold;
-    margin-left: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 5px;
 }
 .carousel .thumb-wrapper {
-	text-align: center;
+  text-align: center;
 }
 .carousel .thumb-content {
-	padding: 15px;
+  padding: 15px;
 }
 .carousel .carousel-control {
-	height: 100px;
-    width: 40px;
-    background: none;
-    margin: auto 0;
-    background: rgba(0, 0, 0, 0.2);
+  height: 100px;
+  width: 40px;
+  background: none;
+  margin: auto 0;
+  background: rgba(0, 0, 0, 0.2);
 }
 .carousel .carousel-control i {
-    font-size: 30px;
-    position: absolute;
-    top: 50%;
-    display: inline-block;
-    margin: -16px 0 0 0;
-    z-index: 5;
-    left: 0;
-    right: 0;
-    color: rgba(0, 0, 0, 0.8);
-    text-shadow: none;
-    font-weight: bold;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  display: inline-block;
+  margin: -16px 0 0 0;
+  z-index: 5;
+  left: 0;
+  right: 0;
+  color: rgba(0, 0, 0, 0.8);
+  text-shadow: none;
+  font-weight: bold;
 }
 .carousel .item-price {
-	font-size: 13px;
-	padding: 2px 0;
+  font-size: 13px;
+  padding: 2px 0;
 }
 .carousel .item-price strike {
-	color: #999;
-	margin-right: 5px;
+  color: #999;
+  margin-right: 5px;
 }
 .carousel .item-price span {
-	color: #86bd57;
-	font-size: 110%;
+  color: #86bd57;
+  font-size: 110%;
 }
 .carousel .carousel-control.left i {
-	margin-left: -3px;
+  margin-left: -3px;
 }
 .carousel .carousel-control.left i {
-	margin-right: -3px;
+  margin-right: -3px;
 }
 .carousel .carousel-indicators {
-	bottom: -50px;
+  bottom: -50px;
 }
-.carousel-indicators li, .carousel-indicators li.active {
-	width: 10px;
-	height: 10px;
-	margin: 4px;
-	border-radius: 50%;
-	border-color: transparent;
+.carousel-indicators li,
+.carousel-indicators li.active {
+  width: 10px;
+  height: 10px;
+  margin: 4px;
+  border-radius: 50%;
+  border-color: transparent;
 }
-.carousel-indicators li {	
-	background: rgba(0, 0, 0, 0.2);
+.carousel-indicators li {
+  background: rgba(0, 0, 0, 0.2);
 }
-.carousel-indicators li.active {	
-	background: rgba(0, 0, 0, 0.6);
+.carousel-indicators li.active {
+  background: rgba(0, 0, 0, 0.6);
 }
 </style>
